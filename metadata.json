@@ -1,0 +1,8 @@
+{
+  "name": "QQQ Trading Copilot",
+  "description": "منصة ومساعد تداول عقود خيارات QQQ اليومية بالذكاء الاصطناعي (Gemini Edition) مع تحليل فني لحظي وأداء الأسهم القيادية وسلسلة خيارات Alpaca.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
